@@ -1,4 +1,4 @@
-name: flutter_app
+name: manuscript_app
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -23,6 +23,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  settings_ui: ^0.4.0
 
 
   # The following adds the Cupertino Icons font to your application.

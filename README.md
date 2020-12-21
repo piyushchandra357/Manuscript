@@ -1,4 +1,4 @@
-# flutter_app
+# manuscript_app
 
 A new Flutter application.
 
